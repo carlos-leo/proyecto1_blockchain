@@ -2,7 +2,7 @@
 
 **Proyecto 1 del curso de Estructura de Datos - 2023-I**
 
-**Una aplicación simple de blockchain**
+**Una aplicación de blockchain aplicado a transferencias bancarias**
 
 **-----------------------------------------------------------------------------------**
 
