@@ -14,23 +14,23 @@ Integrantes:
 
 
 
-*1.	Descripción del caso de estudio planteado por el grupo*
+***1.	Descripción del caso de estudio planteado por el grupo***
 
-1.1.	Problema
+**1.1.	Problema**
 En las entidades bancarias y financieras, la seguridad y privacidad de los datos son aspectos críticos para las transacciones bancarias. Los sistemas tradicionales de almacenamiento y búsqueda de datos pueden presentar vulnerabilidades, y el acceso no autorizado a la información confidencial puede tener consecuencias graves, como el robo de identidad o el fraude financiero. Existe la necesidad de desarrollar una solución confiable y segura que garantice la protección de los datos transaccionales y, al mismo tiempo, permita búsquedas eficientes para su procesamiento. Debido a esa necesidad se propone la implementación de una solución basada en blockchain.
 
-1.2.	Objetivos
+**1.2.	Objetivos**
 
-1.2.1.	Objetivo General
+*1.2.1.	Objetivo General*
 Desarrollar una aplicación transaccional basada en blockchain y que sea segura y eficiente para el almacenamiento de datos de transferencias bancarias.
 
-1.2.2.	Objetivos Específicos
+*1.2.2.	Objetivos Específicos*
 	Desarrollar una aplicación transaccional de almacenamiento seguro de datos basada en la tecnología de cadenas de bloques (blockchain).
 	Implementar un mecanismo de codificación para asegurar la integridad y confidencialidad de los datos almacenados en la cadena de bloques.
 	Diseñar e implementar diferentes estructuras de datos para indexar los registros transaccionales, permitiendo búsquedas eficientes.
 	Garantizar la escalabilidad de la solución, permitiendo el manejo de un gran volumen de transacciones bancarias de manera rápida y eficiente.
 
-1.3.	Alcance
+**1.3.	Alcance**
 	Implementación de estructura de datos: Arreglo circular, lista circular doblemente enlazada, Hash, BST.
 	Implementación del proof of work.
 	Carga desde archivos csv.
