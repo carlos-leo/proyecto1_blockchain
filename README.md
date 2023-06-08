@@ -39,4 +39,4 @@ Así mismo su aplicación se ha visto expandida en otros sectores tales son los 
 	Propiedad intelectual: El blockchain se utiliza para registrar y proteger la propiedad intelectual, como derechos de autor y patentes. Permite una prueba de existencia y autenticidad de los activos intangibles, agilizando los procesos de registro y protección [5].
 
  
-<h2 align="center">Informe completo en el archivo adjunto: "Informe Proyecto Blockchain"</h2>
+<h3 align="center">Informe completo en el archivo adjunto: "Informe Proyecto Blockchain"</h3>
